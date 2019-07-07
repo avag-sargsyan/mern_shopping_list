@@ -1,4 +1,4 @@
-# Project Title
+# Shopping List
 Shopping List created using MERN stack
 
 ### Installing
